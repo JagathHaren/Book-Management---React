@@ -107,24 +107,24 @@ export const bookData = [
     "description": "Alice falls into a whimsical world, encountering fantastical creatures and logic puzzles.",
     "category": "Children's Fantasy"
   },
-  {
-    "id": 13,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Anne_of_green_gables_cover.jpg",
-    "title": "Anne of Green Gables",
-    "author": "L.M. Montgomery",
-    "published": "1908",
-    "description": "Orphan Anne Shirley finds a new life in rural Prince Edward Island.",
-    "category": "Children's/Classic"
-  },
-  {
-    "id": 14,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Dune-Frank_Herbert_%281965%29_First_edition.jpg",
-    "title": "Dune",
-    "author": "Frank Herbert",
-    "published": "1965",
-    "description": "Paul Atreides navigates politics and prophecy on the desert planet Arrakis.",
-    "category": "Science Fiction"
-  },
+  // {
+  //   "id": 13,
+  //   "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Anne_of_green_gables_cover.jpg",
+  //   "title": "Anne of Green Gables",
+  //   "author": "L.M. Montgomery",
+  //   "published": "1908",
+  //   "description": "Orphan Anne Shirley finds a new life in rural Prince Edward Island.",
+  //   "category": "Children's/Classic"
+  // },
+  // {
+  //   "id": 14,
+  //   "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Dune-Frank_Herbert_%281965%29_First_edition.jpg",
+  //   "title": "Dune",
+  //   "author": "Frank Herbert",
+  //   "published": "1965",
+  //   "description": "Paul Atreides navigates politics and prophecy on the desert planet Arrakis.",
+  //   "category": "Science Fiction"
+  // },
   // {
   //   "id": 15,
   //   "img": "https://images.penguinrandomhouse.com/cover/9780525435006",
